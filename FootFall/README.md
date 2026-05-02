@@ -24,8 +24,8 @@ pip install opencv-python ultralytics lap
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tumstech/foot_fall.git
-   cd foot_fall
+   git clone https://github.com/tumstech/AI-Projects.git
+   cd AI-Projects/foot_fall
    ```
 
 2. Run the Jupyter Notebook:
