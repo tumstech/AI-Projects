@@ -6,7 +6,6 @@ This repository contains the source code and documentation for analyzing footfal
 - [Usage](#usage)
 - [Data](#data)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
